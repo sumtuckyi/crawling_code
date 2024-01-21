@@ -1,0 +1,1 @@
+print(len('https://img-cf.kurly.com/cdn-cgi/image/fit=crop,width=360,height=468,quality=85/shop/data/goods/165304027922l0.jpg'))
